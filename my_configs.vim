@@ -1,6 +1,5 @@
 let mapleader = ","
 
-nnoremap <Leader>o :CtrlP<CR>
 nnoremap <Leader>w :w<CR>
 nnoremap <Leader>q :q<CR>
 
