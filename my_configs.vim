@@ -6,7 +6,7 @@ nnoremap <Leader>q :q<CR>
 
 nnoremap <Leader>a :Ack
 nnoremap <Leader>n :NERDTree<CR>
-nnoremap <Leader>w <C-w>v<C-w>l
+nnoremap <Leader>v <C-w>v<C-w>l
 
 " Control shortcuts
 
